@@ -1,0 +1,33 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+
+
+
+@media (min-width: 800px) {
+
+  .footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  }
+}
+
+
+
+@media (max-width: 480px) {
+
+  .footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  }
+}
+
+ 
