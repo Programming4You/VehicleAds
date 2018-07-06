@@ -1,3 +1,5 @@
+# College project with Laravel framework - Admin panel, Ajax poll, MySQL database  
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
